@@ -1,5 +1,5 @@
 /**
- * © Benjamin Eckel 2010
+ * @author Benjamin Eckel 2010
  *
  * This code reads IR signals following Sony's 12 bit protocol.
  * The explanation/schematics can be found here:
