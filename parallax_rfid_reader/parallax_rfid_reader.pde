@@ -1,5 +1,5 @@
 /**
- * @author Benjamin Eckel 2009
+ * @author bhelx 2009
  *
  * This code can be used to interface to the Parallax RFID
  * reader. More info and schematics here:
